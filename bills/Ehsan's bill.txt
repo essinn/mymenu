@@ -1,0 +1,7 @@
+Bill breakdown: 
+cheeseburger:             ...$4.99
+veggie pizza:             ...$9.99
+margharita pizza:         ...$8.45
+fanta:                    ...$1.99
+tip:                      ...$3
+total:                    ...$28.419999999999998

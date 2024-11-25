@@ -1,0 +1,6 @@
+Bill breakdown: 
+hamburger:                ...$4.89
+fries:                    ...$3.1
+pepsi:                    ...$1.99
+tip:                      ...$2
+total:                    ...$11.98
